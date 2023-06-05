@@ -103,21 +103,24 @@ border-radius: 10px;
 }
 
 .card-1{
-    background-image: url(/IMG/articulo-1jpg.jpg);
+    /*background-image: url(/IMG/articulo-1jpg.jpg);*/
+    background-image:url(img/articulo-1jpg.jpg) ;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .card-2{
-    background-image: url(/IMG/gatos.jpg);
+    /*background-image: url(/IMG/gatos.jpg);*/
+    background-image: url(img/gatos.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .card-3{
-    background-image: url(/IMG/articulo-2.jpg);
+    /*background-image: url(/IMG/articulo-2.jpg);*/
+    background-image: url(img/articulo-2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;

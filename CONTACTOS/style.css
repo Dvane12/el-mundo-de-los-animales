@@ -50,7 +50,8 @@
 
 .contenedor_form{
     /*background-image: linear-gradient(to right, #b8cbb8 0%, #b8cbb8 0%, #b465da 0%, #cf6cc9 33%, #ee609c 66%, #ee609c 100%);*/
-    background-image: url(/IMG/contactoss.jpg);
+    /*background-image: url(/IMG/contactoss.jpg);*/
+    background-image: url(img/contactoss.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
